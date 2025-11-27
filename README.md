@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://rosehillops.com/">🌐 rosehillops.com</a> ·
   <a href="https://github.com/xXBricksquadXx?tab=repositories">📂 Repos</a> ·
-  <a href="https://dev.to/xxbricksquadxx">✍️ Dev articles</a>
 </p>
 
 ---
@@ -19,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/xXBricksquadXx">
     <img
-      src="https://readme-typing-svg.demolab.com?size=22&center=true&vCenter=true&width=650&lines=Ship+small%2C+useful+tools;Data+%26+analytics+with+Python+%2B+DuckDB;Next.js+%2B+TypeScript+frontends;Clean+starters+for+future+me"
+      src="https://readme-typing-svg.demolab.com?size=22&center=true&vCenter=true&width=650&lines=Ship+small%2C+useful+tools;Data+%26+analytics+with+Python+%2B+DuckDB;Next.js+%2B+TypeScript+frontends;Clean+starters+for+future+you"
       alt="Typing SVG"
     />
   </a>
@@ -124,16 +123,4 @@
 
 ---
 
-### 📝 Writing & notes
 
-I also write about what I’m building and learning:
-
-- Dev.to: <https://dev.to/xxbricksquadxx>
-
-If a repo looks like a “starter” or “lab,” it probably is: feel free to fork, adapt, and ship.
-
----
-
-<p align="center">
-  <i>If it didn’t demo, it didn’t happen.</i>
-</p>
