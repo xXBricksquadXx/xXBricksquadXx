@@ -104,7 +104,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=xXBricksquadXx&hide_border=true&area=true"
-    alt="Contribution graph"
+    alt="Colby Cardell's contribution graph"
   />
 </p>
 
