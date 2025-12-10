@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Colby (xXBricksquadXx)</h1>
 
 <p align="center">
-  <b>Data tools · Web apps · PDF utilities</b><br/>
-  Pulaski, TN · Shipping small, useful tools.
+  <b>Local-first data tools · Web apps · PDF utilities</b><br/>
+  Pulaski, TN · Shipping small, useful tools with an AI copilot.
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 
 ---
 
-<!-- Typing animation -->
+<!-- Typing animation / brand loop -->
 <p align="center">
   <a href="https://github.com/xXBricksquadXx">
     <img
-      src="https://readme-typing-svg.demolab.com?size=22&center=true&vCenter=true&width=650&lines=Ship+small%2C+useful+tools;Data+%26+analytics+with+Python+%2B+DuckDB;Next.js+%2B+TypeScript+frontends;Clean+starters+for+future+you"
+      src="https://readme-typing-svg.demolab.com?size=22&center=true&vCenter=true&width=720&duration=3200&pause=900&lines=Shipping+small%2C+useful+tools;Local-first+data+%26+analytics;TN-focused+legal+RAG+experiments;Next.js+frontends+for+micro-products;Pairing+with+AI+to+move+faster"
       alt="Typing SVG"
     />
   </a>
@@ -39,11 +39,13 @@
 
 ### 🧭 What I'm focused on
 
-- 🐍 **Python + DuckDB + Streamlit** for quick, local-first data tools  
-- 📊 **Plotly Dash & notebooks** for analysis and dashboards  
-- ⚡ **Next.js 14 + TypeScript + Tailwind** for small productized sites  
-- 📄 **PDF / document utilities** (signing, conversion, micro-workflows)  
-- 🏛️ **TN-focused legal / open-records tooling** (RAG over public records)
+- 🐍 **Python + DuckDB + notebooks** for lightweight, local-first analytics  
+- 📊 **Streamlit / Plotly Dash** for quick dashboards and inspectors  
+- ⚡ **Next.js 14 + TypeScript + Tailwind** for small “product-style” web apps  
+- 📄 **PDF / document utilities** (signing, conversion, small workflows)  
+- 🏛️ **TN-focused legal / open-records tooling** (public, inspectable RAG)
+
+Most of this is me pairing with AI to iterate quickly and keep scope small enough to ship.
 
 ---
 
@@ -59,11 +61,6 @@
   `Python · Dash · GitHub API`  
   👉 <https://github.com/xXBricksquadXx/github-repo-health-dash>
 
-- **Farmer's Almanac (TN-centric)**  
-  TN-flavored almanac UI with seasonal views and a clean, mobile-friendly layout.  
-  `Next.js · TypeScript · Tailwind · Vercel`  
-  👉 <https://github.com/xXBricksquadXx/farmers-almanac>
-
 - **PDF Signer (Vue)**  
   Drop a PDF, place a signature, download the signed copy.  
   `Vue · Vite`  
@@ -76,37 +73,33 @@
 
 ---
 
-### ⚖️ TN-Legal-RAG (Honorable mention)
+### ⚖️ TN-Legal-RAG (public RAG work)
 
 - **TN-Legal-RAG**  
   Retrieval-augmented QA over Tennessee public records and open-records guidance.  
+  Public repo for experimenting with RAG, evals, and open-records workflows.  
   `Python · RAG · Ollama · Qwen2.5 · MiniLM`  
   👉 <https://github.com/xXBricksquadXx/TN-Legal-RAG>
 
 ---
 
-### 📊 GitHub stats & language graph
+### 📊 At a glance (no external stats cards)
+
+- Mix of **data analysis notebooks**, **RAG experiments**, and **small web tools**  
+- Mostly **Python** (data, RAG, dashboards) and **TypeScript/React/Next.js** (frontends)  
+- Focused on **TN-centric data**, **local workflows**, and **practical utilities** over “demo-only” projects
+
+If you want the real picture, the pinned and “flagship” repos above are the best signal.
+
+<!--
+### 📊 GitHub snapshot (static image)
+
+Uncomment this section after you drop a generated PNG into the repo at: ./assets/github-stats.png
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xXBricksquadXx&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-    alt="Colby's GitHub stats"
-  />
+  <img src="./assets/github-stats.png" alt="GitHub stats snapshot" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXBricksquadXx&layout=compact&hide_border=true&langs_count=8"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=xXBricksquadXx&hide_border=true&area=true"
-    alt="Colby Cardell's contribution graph"
-  />
-</p>
+-->
 
 ---
 
@@ -119,8 +112,8 @@
 
 **Data / analytics**
 
-- DuckDB · pandas · Plotly · Jupyter  
-- Streamlit · Dash
+- DuckDB · pandas · Plotly  
+- Jupyter · Streamlit · Dash
 
 **Web / frontend**
 
