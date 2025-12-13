@@ -37,11 +37,11 @@
 
 ---
 
-### 🧭 What I'm focused on
+## 🧭 What I'm focused on
 
 - 🐍 **Python + DuckDB + notebooks** for lightweight, local-first analytics  
 - 📊 **Streamlit / Plotly Dash** for quick dashboards and inspectors  
-- ⚡ **Next.js 14 + TypeScript + Tailwind** for small “product-style” web apps  
+- ⚡ **Next.js + TypeScript + Tailwind** for small “product-style” web apps  
 - 📄 **PDF / document utilities** (signing, conversion, small workflows)  
 - 🏛️ **TN-focused legal / open-records tooling** (public, inspectable RAG)
 
@@ -49,7 +49,28 @@ Most of this is me pairing with AI to iterate quickly and keep scope small enoug
 
 ---
 
-### 🚀 Flagship / product-style projects
+## 🔗 Featured live demo (rate-limited)
+
+**Notebot (Live)** — a single public demo link on purpose (one flagship out of many).  
+Note: the demo uses a shared **free-tier Groq API** with strict throttles, so you may hit **429 / rate limit** during heavy traffic. For reliable use, run locally with your own key.
+
+<p>
+  <a href="https://notebot-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Notebot-Live%20Demo-000000?logo=vercel&logoColor=white" alt="Notebot live demo" />
+  </a>
+  <a href="https://github.com/xXBricksquadXx/notebot">
+    <img src="https://img.shields.io/badge/Notebot-Repo-181717?logo=github&logoColor=white" alt="Notebot repo" />
+  </a>
+</p>
+
+---
+
+## 🚀 Flagship / product-style projects
+
+- **Notebot**  
+  Notes + AI assist (demo is intentionally rate-limited).  
+  `JavaScript · Web · Vercel`  
+  👉 Repo: <https://github.com/xXBricksquadXx/notebot> · Live: <https://notebot-ten.vercel.app/>
 
 - **CSV Studio — DuckDB Edition**  
   Upload CSV/XLSX → filter, query, chart, CRUD, export — all in the browser.  
@@ -67,13 +88,13 @@ Most of this is me pairing with AI to iterate quickly and keep scope small enoug
   👉 <https://github.com/xXBricksquadXx/pdf-signer-vue>
 
 - **Next.js Clean Starter**  
-  Opinionated Next.js 14 + Tailwind starter with Airbnb ESLint + Prettier.  
+  Opinionated Next.js + Tailwind starter with Airbnb ESLint + Prettier.  
   `Next.js · TypeScript · Tailwind · ESLint · Prettier`  
   👉 <https://github.com/xXBricksquadXx/nextjs-clean-starter>
 
 ---
 
-### ⚖️ TN-Legal-RAG (public RAG work)
+## ⚖️ TN-Legal-RAG (public RAG work)
 
 - **TN-Legal-RAG**  
   Retrieval-augmented QA over Tennessee public records and open-records guidance.  
@@ -83,7 +104,7 @@ Most of this is me pairing with AI to iterate quickly and keep scope small enoug
 
 ---
 
-### 📊 At a glance (no external stats cards)
+## 📊 At a glance (no external stats cards)
 
 - Mix of **data analysis notebooks**, **RAG experiments**, and **small web tools**  
 - Mostly **Python** (data, RAG, dashboards) and **TypeScript/React/Next.js** (frontends)  
@@ -103,31 +124,27 @@ Uncomment this section after you drop a generated PNG into the repo at: ./assets
 
 ---
 
-### 🧰 Toolbox
+## 🧰 Toolbox
 
 **Languages**
-
 - Python · TypeScript · JavaScript  
 - SQL · Bash/Batch · enough HTML/CSS to get things shipped
 
 **Data / analytics**
-
 - DuckDB · pandas · Plotly  
 - Jupyter · Streamlit · Dash
 
 **Web / frontend**
-
 - Next.js (App Router) · React  
 - Vue · Tailwind CSS
 
 **Dev workflow**
-
 - GitHub Actions · Vercel · Docker (when it helps)  
 - Opinionated linters/formatters (Airbnb ESLint, Prettier)
 
 ---
 
-### 📚 Selected analysis work
+## 📚 Selected analysis work
 
 - **TN Unemployment Analysis** – time-series and regional patterns for Tennessee.  
   👉 <https://github.com/xXBricksquadXx/TN-unemployment-analysis>
