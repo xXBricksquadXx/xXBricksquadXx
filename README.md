@@ -7,6 +7,8 @@
 [![Repositories](https://img.shields.io/badge/View_Repos-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xXBricksquadXx?tab=repositories)
 [![CodePen](https://img.shields.io/badge/Prototypes-FFDD00?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/xxbricksquadxx)
 
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=colby88carl&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/colby88carl)
+
 <img src="https://readme-typing-svg.demolab.com?size=22&center=true&vCenter=true&width=700&duration=3200&lines=Shipping+small,+useful+tools;Local-first+data+%26+analytics;TN-focused+legal+RAG+experiments;Reliable+Real-time+Comms;PDF+workflows+built+for+humans" alt="Typing SVG" />
 
 ---
