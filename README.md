@@ -33,7 +33,7 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**Debt Validation Prompter**](https://github.com/xXBricksquadXx/Debt-Validation-Prompter) | **New:** Agentic workflow for generating FDCPA-compliant debt validation requests. | `Python` `Legal-Tech` |
+| [**Debt Validation Prompter**](https://github.com/xXBricksquadXx/Debt-Validation-Prompter) | **New:** Agentic workflow for generating FDCPA-compliant debt validation requests. | `Vanilla JS` `Legal-Tech` |
 | [**CSV Studio**](https://github.com/xXBricksquadXx/csv-studio-duckdb) | DuckDB-powered analytics dashboard for lightning-fast CSV/XLSX processing. | `Streamlit` `DuckDB` |
 | [**Notebot**](https://github.com/xXBricksquadXx/notebot) | Minimalist Notes + Groq AI chat integration for rapid ideation. | `Next.js` `Groq` |
 | [**PDF Signer**](https://github.com/xXBricksquadXx/pdf-signer-vue) | Lean drag-and-drop signature placement workflow. No bloat. | `Vue.js` |
