@@ -23,23 +23,25 @@
 ## 🧭 Strategic Focus
 * **Local-first Analytics:** Architecting high-performance data tools using `DuckDB` and `pandas`.
 * **Micro-Products:** Building "product-style" web apps with `Next.js` and `TypeScript`.
-* **Legal Tech:** Tennessee-specific open-records tooling and inspectable `RAG` experiments.
+* **Legal Tech:** Tennessee-specific open-records tooling and FDCPA-compliant automation.
 * **Real-time Comms:** Socket.IO relay systems with high-reliability delivery semantics.
 
 ---
 
 ## ⭐ Flagship Projects
+*High-signal utilities built for performance and utility.*
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**Notebot**](https://github.com/xXBricksquadXx/notebot) | Notes + Groq AI chat integration. | `Next.js` `Groq` |
-| [**CSV Studio**](https://github.com/xXBricksquadXx/csv-studio-duckdb) | DuckDB-powered CSV/XLSX analytics dashboard. | `Streamlit` `DuckDB` |
-| [**PDF Signer**](https://github.com/xXBricksquadXx/pdf-signer-vue) | Drag-and-drop signature placement workflow. | `Vue.js` |
-| [**TN Legal RAG**](https://github.com/xXBricksquadXx/TN-Legal-RAG) | RAG + evals for TN open-records workflows. | `Python` `AI` |
+| [**Debt Validation Prompter**](https://github.com/xXBricksquadXx/Debt-Validation-Prompter) | **New:** Agentic workflow for generating FDCPA-compliant debt validation requests. | `Python` `Legal-Tech` |
+| [**CSV Studio**](https://github.com/xXBricksquadXx/csv-studio-duckdb) | DuckDB-powered analytics dashboard for lightning-fast CSV/XLSX processing. | `Streamlit` `DuckDB` |
+| [**Notebot**](https://github.com/xXBricksquadXx/notebot) | Minimalist Notes + Groq AI chat integration for rapid ideation. | `Next.js` `Groq` |
+| [**PDF Signer**](https://github.com/xXBricksquadXx/pdf-signer-vue) | Lean drag-and-drop signature placement workflow. No bloat. | `Vue.js` |
+| [**TN Legal RAG**](https://github.com/xXBricksquadXx/TN-Legal-RAG) | RAG + evals specialized for TN open-records and legal workflows. | `Python` `AI` |
 
 ---
 
-## 📊 Analytics & Activity
+## 📊 Analytics & Language Distribution
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xXBricksquadXx&theme=tokyonight" width="48%" />
