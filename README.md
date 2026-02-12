@@ -1,47 +1,55 @@
 <div align="center">
 
-# ⚡ Colby | @xXBricksquadXx
-**Local-first data tools • Web apps • PDF utilities • Real-time comms**
+# Colby Cardell
+### Explorer · Collaborator · Toolsmith
 
-[![Website](https://img.shields.io/badge/rosehillops.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rosehillops.com/)
-[![Repositories](https://img.shields.io/badge/View_Repos-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xXBricksquadXx?tab=repositories)
-[![CodePen](https://img.shields.io/badge/Prototypes-FFDD00?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/xxbricksquadxx)
+[![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/xxbricksquadxx)
+[![Repositories](https://img.shields.io/badge/Collaborative_Repos-7957d5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xXBricksquadXx?tab=repositories)
+[![Philosophy](https://img.shields.io/badge/Mindset-Exploration-teal?style=for-the-badge)](https://cardell-io-682891.gitlab.io/)
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=colby88carl&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/colby88carl)
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?size=22&center=true&vCenter=true&width=700&duration=3200&lines=Shipping+small,+useful+tools;Local-first+data+%26+analytics;TN-focused+legal+RAG+experiments;Reliable+Real-time+Comms;PDF+workflows+built+for+humans" alt="Typing SVG" />
-
----
-
-### 🛠️ Tech Stack
-`Python` · `TypeScript` · `Next.js` · `React` · `Vue` · `DuckDB` · `pandas` · `Streamlit` · `Tailwind` · `Vercel`
-
----
+> **"No competition. Just useful insights and outside-the-box thinking."**
 
 </div>
 
-## 🧭 Strategic Focus
-* **Local-first Analytics:** Architecting high-performance data tools using `DuckDB` and `pandas`.
-* **Micro-Products:** Building "product-style" web apps with `Next.js` and `TypeScript`.
-* **Legal Tech:** Tennessee-specific open-records tooling and FDCPA-compliant automation.
-* **Real-time Comms:** Socket.IO relay systems with high-reliability delivery semantics.
+---
+
+## 📡 The Mission: Utility & Entanglement
+I view software not as a silo, but as an entangled system—much like **QFT (Quantum Field Theory)** suggests, everything is connected. 
+
+My background (Infantry/EW) taught me that reality is complex; my current work is about building tools to navigate that complexity. I focus on **Legal Tech** and **Data Systems** because they are the fundamental fields that govern human interaction.
+
+**My repositories are team efforts and open explorations.** I am here to:
+* **De-mystify** legal processes through automation.
+* **Democratize** data analysis with local-first tools.
+* **Collaborate** on solutions that actually work in reality.
 
 ---
 
-## ⭐ Flagship Projects
-*High-signal utilities built for performance and utility.*
+## 🔬 Collaborative Labs
 
-| Project | Description | Tech |
+| Domain | Focus Area |
+| :--- | :--- |
+| **⚖️ Legal Engineering** | *Making the law accessible.* <br> Projects focused on Tennessee Open Records, FDCPA compliance, and transparency. |
+| **⚛️ QFT & Data** | *Modeling complexity.* <br> Using `DuckDB` and `Python` to find patterns in the noise. |
+| **🛠️ Utility** | *Small tools, big impact.* <br> PDF utilities, signers, and communicators designed for efficiency. |
+
+---
+
+## 🧩 Active Explorations
+*These are open for inspection, fork, and contribution.*
+
+| Experiment | The "Why" | Tech Stack |
 | :--- | :--- | :--- |
-| [**Debt Validation Prompter**](https://github.com/xXBricksquadXx/Debt-Validation-Prompter) | **New:** Agentic workflow for generating FDCPA-compliant debt validation requests. | `Vanilla JS` `Legal-Tech` |
-| [**CSV Studio**](https://github.com/xXBricksquadXx/csv-studio-duckdb) | DuckDB-powered analytics dashboard for lightning-fast CSV/XLSX processing. | `Streamlit` `DuckDB` |
-| [**Notebot**](https://github.com/xXBricksquadXx/notebot) | Minimalist Notes + Groq AI chat integration for rapid ideation. | `Next.js` `Groq` |
-| [**PDF Signer**](https://github.com/xXBricksquadXx/pdf-signer-vue) | Lean drag-and-drop signature placement workflow. No bloat. | `Vue.js` |
-| [**TN Legal RAG**](https://github.com/xXBricksquadXx/TN-Legal-RAG) | RAG + evals specialized for TN open-records and legal workflows. | `Python` `AI` |
-
+| [**TN Legal RAG**](https://github.com/xXBricksquadXx/TN-Legal-RAG) | Because legal data shouldn't be a black box. A retrieval system for TN records. | `Python` `AI` |
+| [**Debt Validation Prompter**](https://github.com/xXBricksquadXx/Debt-Validation-Prompter) | Empowering individuals with agentic workflows for FDCPA compliance. | `JS` `Legal-Tech` |
+| [**CSV Studio**](https://github.com/xXBricksquadXx/csv-studio-duckdb) | A lightning-fast way to query data without setting up enterprise servers. | `DuckDB` `Streamlit` |
+| [**Petition to DC**](https://github.com/xXBricksquadXx/petition2dc) | Dockerized utility for standardized, high-reliability legislative action. | `Docker` `Civic-Tech` |
 ---
 
-## 📊 Analytics & Language Distribution
+## 📊 The Data (Team Velocity)
+*Tracking the languages and logic we use to build these systems.*
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xXBricksquadXx&theme=tokyonight" width="48%" />
@@ -56,9 +64,6 @@
 
 ---
 
-## 🧪 From Prototype to Production
-Many of my projects begin as high-speed experiments on **CodePen**. Once the logic hardens, they are ported to GitHub and refined into shippable, production-ready utilities. 
-
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=xXBricksquadXx&style=flat-square&color=0078D4&label=PROFILE+VIEWS" alt="Profile views" />
+  <sub><i>"Math and logic are the data-driven receipts of our collaborative efforts."</i></sub>
 </div>
