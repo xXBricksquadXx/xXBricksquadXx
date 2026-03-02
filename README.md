@@ -1,7 +1,11 @@
 <div align="center">
 
-# Colby Cardell
-### Explorer · Collaborator · Toolsmith
+# Colby Cardell  
+### Data Systems · Civil Services · System Auditor
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Independent+Builder;Legal+Data+Should+Be+Transparent;Receipts+Over+Rhetoric;Systems+Over+Noise" />
+
+<br/>
 
 [![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/xxbricksquadxx)
 [![Repositories](https://img.shields.io/badge/Collaborative_Repos-7957d5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xXBricksquadXx?tab=repositories)
@@ -9,47 +13,89 @@
 
 <br/>
 
-> **"No competition. Just useful insights and outside-the-box thinking."**
+> **No competition. Just systems that work.**
 
 </div>
 
 ---
 
-## 📡 The Mission: Utility & Entanglement
-I view software not as a silo, but as an entangled system—much like **QFT (Quantum Field Theory)** suggests, everything is connected. 
+## Mission
 
-My background (Infantry/EW) taught me that reality is complex; my current work is about building tools to navigate that complexity. I focus on **Legal Tech** and **Data Systems** because they are the fundamental fields that govern human interaction.
+I build practical, auditable systems focused on:
 
-**My repositories are team efforts and open explorations.** I am here to:
-* **De-mystify** legal processes through automation.
-* **Democratize** data analysis with local-first tools.
-* **Collaborate** on solutions that actually work in reality.
+- **Legal transparency**
+- **Public data accessibility**
+- **Local-first analysis**
+- **Operational clarity**
 
----
-
-## 🔬 Collaborative Labs
-
-| Domain | Focus Area |
-| :--- | :--- |
-| **⚖️ Legal Engineering** | *Making the law accessible.* <br> Projects focused on Tennessee Open Records, FDCPA compliance, and transparency. |
-| **⚛️ QFT & Data** | *Modeling complexity.* <br> Using `DuckDB` and `Python` to find patterns in the noise. |
-| **🛠️ Utility** | *Small tools, big impact.* <br> PDF utilities, signers, and communicators designed for efficiency. |
+My work centers on civil infrastructure, legal retrieval, and structured data pipelines.  
+Independent by design. Collaborative by default.  
 
 ---
 
-## 🧩 Active Explorations
-*These are open for inspection, fork, and contribution.*
+## Core Focus Areas
 
-| Experiment | The "Why" | Tech Stack |
-| :--- | :--- | :--- |
-| [**TN Legal RAG**](https://github.com/xXBricksquadXx/TN-Legal-RAG) | Because legal data shouldn't be a black box. A retrieval system for TN records. | `Python` `AI` |
-| [**Debt Validation Prompter**](https://github.com/xXBricksquadXx/Debt-Validation-Prompter) | Empowering individuals with agentic workflows for FDCPA compliance. | `JS` `Legal-Tech` |
-| [**CSV Studio**](https://github.com/xXBricksquadXx/csv-studio-duckdb) | A lightning-fast way to query data without setting up enterprise servers. | `DuckDB` `Streamlit` |
-| [**Petition to DC**](https://github.com/xXBricksquadXx/petition2dc) | Dockerized utility for standardized, high-reliability legislative action. | `Docker` `Civic-Tech` |
+### ⚖️ Legal Engineering
+Making statutes, records, and regulatory material queryable and inspectable.
+
+### 📊 Data Systems
+Structured analysis using lightweight, reproducible tooling.
+
+### 🛠 Utility Infrastructure
+Small, focused tools that reduce friction in civic and analytical workflows.
+
 ---
 
-## 📊 The Data (Team Velocity)
-*Tracking the languages and logic we use to build these systems.*
+## Primary Projects (_Sometimes UPDATED_)
+
+### 1. [TN Legal RAG](https://github.com/xXBricksquadXx/TN-Legal-RAG)  
+**Because legal data shouldn't be a black box.**  
+Retrieval-augmented system for Tennessee legal records and structured querying.  
+
+`Python` · `AI` · `Vector Search`
+
+---
+
+### 2. [Quantum Sandbox](https://github.com/xXBricksquadXx/Quantum-Sandbox)  
+Experimental modeling environment exploring structured computation and systems theory.  
+
+`Python` · `Simulation` · `Data Modeling`
+
+---
+
+### 3. [Project Rigor Mortis](https://github.com/xXBricksquadXx/Project_Rigor_Mortis)  
+System audit and structural integrity analysis framework.  
+
+`Python` · `Data Audit` · `Validation`
+
+---
+
+### 4. [TN Greenbelt Dividend](https://github.com/xXBricksquadXx/TN-Greenbelt-Dividend)  
+Public-interest financial and land-use analysis focused on Tennessee Greenbelt structures.  
+
+`Data Analysis` · `Civic Tech`
+
+---
+
+### 5. [cardell-io](https://github.com/xXBricksquadXx/cardell-io)  
+Personal infrastructure and public-facing documentation.  
+
+`Web` · `Systems Design`
+
+---
+
+## Working Philosophy
+
+- Clarity over aesthetics  
+- Systems over slogans  
+- Evidence over assumption  
+- Build > Announce  
+
+---
+
+## GitHub Metrics
+
+*The only charts I could get working — kept for transparency.*
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xXBricksquadXx&theme=tokyonight" width="48%" />
@@ -59,11 +105,11 @@ My background (Infantry/EW) taught me that reality is complex; my current work i
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xXBricksquadXx&theme=tokyonight" width="97%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xXBricksquadXx&theme=tokyonight" width="97%" />
 </div>
 
 ---
 
-<div align="right">
-  <sub><i>"Math and logic are the data-driven receipts of our collaborative efforts."</i></sub>
+<div align="center">
+<sub>Independent builder focused on usable civic infrastructure.</sub>
 </div>
